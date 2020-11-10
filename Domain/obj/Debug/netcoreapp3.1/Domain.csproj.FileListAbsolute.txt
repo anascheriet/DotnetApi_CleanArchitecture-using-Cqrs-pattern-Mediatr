@@ -1,0 +1,9 @@
+/Users/anascheriet/Documents/Projects/Dotnet/CleanArchitecture/Domain/bin/Debug/netcoreapp3.1/Domain.deps.json
+/Users/anascheriet/Documents/Projects/Dotnet/CleanArchitecture/Domain/bin/Debug/netcoreapp3.1/Domain.dll
+/Users/anascheriet/Documents/Projects/Dotnet/CleanArchitecture/Domain/bin/Debug/netcoreapp3.1/Domain.pdb
+/Users/anascheriet/Documents/Projects/Dotnet/CleanArchitecture/Domain/obj/Debug/netcoreapp3.1/Domain.csprojAssemblyReference.cache
+/Users/anascheriet/Documents/Projects/Dotnet/CleanArchitecture/Domain/obj/Debug/netcoreapp3.1/Domain.AssemblyInfoInputs.cache
+/Users/anascheriet/Documents/Projects/Dotnet/CleanArchitecture/Domain/obj/Debug/netcoreapp3.1/Domain.AssemblyInfo.cs
+/Users/anascheriet/Documents/Projects/Dotnet/CleanArchitecture/Domain/obj/Debug/netcoreapp3.1/Domain.csproj.CoreCompileInputs.cache
+/Users/anascheriet/Documents/Projects/Dotnet/CleanArchitecture/Domain/obj/Debug/netcoreapp3.1/Domain.dll
+/Users/anascheriet/Documents/Projects/Dotnet/CleanArchitecture/Domain/obj/Debug/netcoreapp3.1/Domain.pdb

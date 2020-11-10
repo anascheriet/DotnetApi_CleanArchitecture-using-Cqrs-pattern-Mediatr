@@ -1,0 +1,14 @@
+/Users/anascheriet/Documents/Projects/Dotnet/CleanArchitecture/Application/bin/Debug/netcoreapp3.1/Application.deps.json
+/Users/anascheriet/Documents/Projects/Dotnet/CleanArchitecture/Application/bin/Debug/netcoreapp3.1/Application.dll
+/Users/anascheriet/Documents/Projects/Dotnet/CleanArchitecture/Application/bin/Debug/netcoreapp3.1/Application.pdb
+/Users/anascheriet/Documents/Projects/Dotnet/CleanArchitecture/Application/bin/Debug/netcoreapp3.1/Domain.dll
+/Users/anascheriet/Documents/Projects/Dotnet/CleanArchitecture/Application/bin/Debug/netcoreapp3.1/Persistence.dll
+/Users/anascheriet/Documents/Projects/Dotnet/CleanArchitecture/Application/bin/Debug/netcoreapp3.1/Domain.pdb
+/Users/anascheriet/Documents/Projects/Dotnet/CleanArchitecture/Application/bin/Debug/netcoreapp3.1/Persistence.pdb
+/Users/anascheriet/Documents/Projects/Dotnet/CleanArchitecture/Application/obj/Debug/netcoreapp3.1/Application.csprojAssemblyReference.cache
+/Users/anascheriet/Documents/Projects/Dotnet/CleanArchitecture/Application/obj/Debug/netcoreapp3.1/Application.AssemblyInfoInputs.cache
+/Users/anascheriet/Documents/Projects/Dotnet/CleanArchitecture/Application/obj/Debug/netcoreapp3.1/Application.AssemblyInfo.cs
+/Users/anascheriet/Documents/Projects/Dotnet/CleanArchitecture/Application/obj/Debug/netcoreapp3.1/Application.csproj.CoreCompileInputs.cache
+/Users/anascheriet/Documents/Projects/Dotnet/CleanArchitecture/Application/obj/Debug/netcoreapp3.1/Application.csproj.CopyComplete
+/Users/anascheriet/Documents/Projects/Dotnet/CleanArchitecture/Application/obj/Debug/netcoreapp3.1/Application.dll
+/Users/anascheriet/Documents/Projects/Dotnet/CleanArchitecture/Application/obj/Debug/netcoreapp3.1/Application.pdb

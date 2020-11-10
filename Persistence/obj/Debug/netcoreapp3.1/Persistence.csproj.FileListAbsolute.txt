@@ -1,0 +1,15 @@
+/Users/anascheriet/Documents/Projects/Dotnet/CleanArchitecture/Persistence/bin/Debug/netcoreapp3.1/Persistence.deps.json
+/Users/anascheriet/Documents/Projects/Dotnet/CleanArchitecture/Persistence/bin/Debug/netcoreapp3.1/Persistence.runtimeconfig.json
+/Users/anascheriet/Documents/Projects/Dotnet/CleanArchitecture/Persistence/bin/Debug/netcoreapp3.1/Persistence.runtimeconfig.dev.json
+/Users/anascheriet/Documents/Projects/Dotnet/CleanArchitecture/Persistence/bin/Debug/netcoreapp3.1/Persistence.dll
+/Users/anascheriet/Documents/Projects/Dotnet/CleanArchitecture/Persistence/bin/Debug/netcoreapp3.1/Persistence.pdb
+/Users/anascheriet/Documents/Projects/Dotnet/CleanArchitecture/Persistence/bin/Debug/netcoreapp3.1/Domain.dll
+/Users/anascheriet/Documents/Projects/Dotnet/CleanArchitecture/Persistence/bin/Debug/netcoreapp3.1/Domain.pdb
+/Users/anascheriet/Documents/Projects/Dotnet/CleanArchitecture/Persistence/obj/Debug/netcoreapp3.1/Persistence.csprojAssemblyReference.cache
+/Users/anascheriet/Documents/Projects/Dotnet/CleanArchitecture/Persistence/obj/Debug/netcoreapp3.1/Persistence.AssemblyInfoInputs.cache
+/Users/anascheriet/Documents/Projects/Dotnet/CleanArchitecture/Persistence/obj/Debug/netcoreapp3.1/Persistence.AssemblyInfo.cs
+/Users/anascheriet/Documents/Projects/Dotnet/CleanArchitecture/Persistence/obj/Debug/netcoreapp3.1/Persistence.csproj.CoreCompileInputs.cache
+/Users/anascheriet/Documents/Projects/Dotnet/CleanArchitecture/Persistence/obj/Debug/netcoreapp3.1/Persistence.csproj.CopyComplete
+/Users/anascheriet/Documents/Projects/Dotnet/CleanArchitecture/Persistence/obj/Debug/netcoreapp3.1/Persistence.dll
+/Users/anascheriet/Documents/Projects/Dotnet/CleanArchitecture/Persistence/obj/Debug/netcoreapp3.1/Persistence.pdb
+/Users/anascheriet/Documents/Projects/Dotnet/CleanArchitecture/Persistence/obj/Debug/netcoreapp3.1/Persistence.genruntimeconfig.cache

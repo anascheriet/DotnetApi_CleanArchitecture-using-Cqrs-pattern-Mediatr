@@ -1,0 +1,5 @@
+The Project is separated to 4 mini Projects:
+API : receives and sends Http requests and responses through the controllers.
+Application: Handles the business logic for the http requests (Crud ...).
+Domain: contains the entities/models that are used in business logic.
+Persistance: Provides access to database through ApplicationDbContext(Dbsets). 

@@ -1,0 +1,179 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/anascheriet/Documents/Projects/Dotnet/CleanArchitecture/Application/Application.csproj": {}
+  },
+  "projects": {
+    "/Users/anascheriet/Documents/Projects/Dotnet/CleanArchitecture/Application/Application.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/anascheriet/Documents/Projects/Dotnet/CleanArchitecture/Application/Application.csproj",
+        "projectName": "Application",
+        "projectPath": "/Users/anascheriet/Documents/Projects/Dotnet/CleanArchitecture/Application/Application.csproj",
+        "packagesPath": "/Users/anascheriet/.nuget/packages/",
+        "outputPath": "/Users/anascheriet/Documents/Projects/Dotnet/CleanArchitecture/Application/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/anascheriet/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "/Users/anascheriet/Documents/Projects/Dotnet/CleanArchitecture/Domain/Domain.csproj": {
+                "projectPath": "/Users/anascheriet/Documents/Projects/Dotnet/CleanArchitecture/Domain/Domain.csproj"
+              },
+              "/Users/anascheriet/Documents/Projects/Dotnet/CleanArchitecture/Persistence/Persistence.csproj": {
+                "projectPath": "/Users/anascheriet/Documents/Projects/Dotnet/CleanArchitecture/Persistence/Persistence.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/3.1.403/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/anascheriet/Documents/Projects/Dotnet/CleanArchitecture/Domain/Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/anascheriet/Documents/Projects/Dotnet/CleanArchitecture/Domain/Domain.csproj",
+        "projectName": "Domain",
+        "projectPath": "/Users/anascheriet/Documents/Projects/Dotnet/CleanArchitecture/Domain/Domain.csproj",
+        "packagesPath": "/Users/anascheriet/.nuget/packages/",
+        "outputPath": "/Users/anascheriet/Documents/Projects/Dotnet/CleanArchitecture/Domain/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/anascheriet/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/3.1.403/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/anascheriet/Documents/Projects/Dotnet/CleanArchitecture/Persistence/Persistence.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/anascheriet/Documents/Projects/Dotnet/CleanArchitecture/Persistence/Persistence.csproj",
+        "projectName": "Persistence",
+        "projectPath": "/Users/anascheriet/Documents/Projects/Dotnet/CleanArchitecture/Persistence/Persistence.csproj",
+        "packagesPath": "/Users/anascheriet/.nuget/packages/",
+        "outputPath": "/Users/anascheriet/Documents/Projects/Dotnet/CleanArchitecture/Persistence/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/anascheriet/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "/Users/anascheriet/Documents/Projects/Dotnet/CleanArchitecture/Domain/Domain.csproj": {
+                "projectPath": "/Users/anascheriet/Documents/Projects/Dotnet/CleanArchitecture/Domain/Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.Sqlite": {
+              "target": "Package",
+              "version": "[3.1.10, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "target": "Package",
+              "version": "[3.1.10, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/3.1.403/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
