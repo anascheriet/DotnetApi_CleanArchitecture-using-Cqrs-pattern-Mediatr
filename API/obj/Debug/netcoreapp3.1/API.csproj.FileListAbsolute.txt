@@ -64,3 +64,5 @@
 /Users/anascheriet/Documents/Projects/Dotnet/CleanArchitecture/API/obj/Debug/netcoreapp3.1/API.dll
 /Users/anascheriet/Documents/Projects/Dotnet/CleanArchitecture/API/obj/Debug/netcoreapp3.1/API.pdb
 /Users/anascheriet/Documents/Projects/Dotnet/CleanArchitecture/API/obj/Debug/netcoreapp3.1/API.genruntimeconfig.cache
+/Users/anascheriet/Documents/Projects/Dotnet/CleanArchitecture/API/bin/Debug/netcoreapp3.1/MediatR.dll
+/Users/anascheriet/Documents/Projects/Dotnet/CleanArchitecture/API/bin/Debug/netcoreapp3.1/MediatR.Extensions.Microsoft.DependencyInjection.dll

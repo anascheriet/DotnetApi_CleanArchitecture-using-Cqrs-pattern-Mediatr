@@ -1,9 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "87kkOamBixg3bGEFVVctbP4sFT0yKGXLRAzLZPExdrCulZqJkRRSsUKGEd1lpaDBZ7ROftWJurqgeVahpSuKOg==",
+  "dgSpecHash": "3JsPbxqaZh60ZdT+Z2frcxmJqcYabPhyuDnFvoDYxFDlg/tHpdbwAoHU/Abo8IxKi4ygYXmLLGbOdC/oxm4gIA==",
   "success": true,
   "projectFilePath": "/Users/anascheriet/Documents/Projects/Dotnet/CleanArchitecture/API/API.csproj",
   "expectedPackageFiles": [
+    "/Users/anascheriet/.nuget/packages/mediatr/9.0.0/mediatr.9.0.0.nupkg.sha512",
+    "/Users/anascheriet/.nuget/packages/mediatr.extensions.microsoft.dependencyinjection/9.0.0/mediatr.extensions.microsoft.dependencyinjection.9.0.0.nupkg.sha512",
     "/Users/anascheriet/.nuget/packages/microsoft.bcl.asyncinterfaces/1.1.1/microsoft.bcl.asyncinterfaces.1.1.1.nupkg.sha512",
     "/Users/anascheriet/.nuget/packages/microsoft.bcl.hashcode/1.1.0/microsoft.bcl.hashcode.1.1.0.nupkg.sha512",
     "/Users/anascheriet/.nuget/packages/microsoft.csharp/4.7.0/microsoft.csharp.4.7.0.nupkg.sha512",
